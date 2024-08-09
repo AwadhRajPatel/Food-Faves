@@ -32,5 +32,4 @@ app.listen(serverConfig.PORT, async () => {
   console.log(`Server started at port ${serverConfig.PORT}...!!`);
 });
 
-//Password: sufyaba19CMQ2HFC
-//Name: awadhrajpatel95
+
